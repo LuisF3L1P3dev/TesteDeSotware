@@ -15,3 +15,6 @@ Identifier “string”		- Output: Válido
 
 	Verificando um identificador inválido (supera o número máximo de caracteres aceitos):
 Identifier “stringmuitogrande”		 - Output: Inválido
+
+![alt text](image.png)
+
