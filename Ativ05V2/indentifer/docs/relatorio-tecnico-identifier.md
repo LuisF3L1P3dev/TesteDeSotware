@@ -147,6 +147,8 @@ prováveis.
 
 ## 7. Automação dos testes
 
+<img width="868" height="592" alt="image" src="https://github.com/user-attachments/assets/5d535c65-a874-423c-9e1a-a461613e074c" />
+
 Os testes foram implementados com JUnit 5. Em cada método estão identificadas as
 três partes solicitadas:
 
